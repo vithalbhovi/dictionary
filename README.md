@@ -1,0 +1,2 @@
+# dictionary
+sample dictionary app
