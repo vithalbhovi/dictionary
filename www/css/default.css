@@ -1,0 +1,39 @@
+body {
+    background: #ccc;
+    font-family: calibri;
+    font-size: 18px;
+}
+.row{
+    border: 2px solid #fff;
+    margin: 50px;
+}
+#searchform{
+    padding: 10px;
+}
+.ui-menu .ui-menu-item a,.ui-menu .ui-menu-item a.ui-state-hover, .ui-menu .ui-menu-item a.ui-state-active {
+    font-weight: normal;
+    margin: -1px;
+    text-align:left;
+    font-size:14px;
+}
+.ui-autocomplete-loading {
+    background: white url("../img/ui-anim_basic_16x16.gif") right center no-repeat;
+}
+.col-md-9 {
+    width: 83%;
+}
+.styleText{
+    margin:0 0 20px 0;
+}
+#output p:nth-of-type(2n+1) { 
+    color: #000;
+    font-size: 20px;
+}
+#output p:nth-of-type(2n){
+    color: green;
+    font-size: 30px;
+}
+.textColor{
+    color: green;
+    font-size: 30px;
+}
